@@ -2,6 +2,6 @@
 
 ---
 ## Você precisarar ter:
-  *Bash/Terminal do linux
-  *Wordlist
+  * Bash/Terminal do linux
+  * Wordlist
 ---
