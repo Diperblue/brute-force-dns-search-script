@@ -5,3 +5,7 @@
   * Bash/Terminal do linux
   * Wordlist
 ---
+## Como instalar:
+~~~
+
+~~~
