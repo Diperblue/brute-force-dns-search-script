@@ -22,3 +22,9 @@ cd brute-force-dns-search-script
 ~~~
 chmod +x dns-script.sh
 ~~~
+---
+## Como executar?
+ Para executar e so utilizar o comando:
+ ~~~
+ ./dns-script nomedosite.com.br
+ ~~~
