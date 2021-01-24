@@ -33,3 +33,5 @@ chmod +x dns-script.sh
  ~~~
  ./dns-script nomedosite.com.br
  ~~~
+ ###### Fonte:
+  * Tecnicas de Invasão-pagina 58 a 59
