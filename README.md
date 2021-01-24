@@ -13,8 +13,13 @@
 sudo apt-get install git
 ~~~
 ---
+## Como instalar o script?
 ~~~
 git clone https://github.com/Diperblue/brute-force-dns-search-script.git
-cd brute-force-dns-search-script
+~~~
+~~~
 chmod +x dns-script.sh
+~~~
+~~~
+cd brute-force-dns-search-script
 ~~~
