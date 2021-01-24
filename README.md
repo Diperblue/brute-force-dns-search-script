@@ -24,6 +24,13 @@ chmod +x dns-script.sh
 ~~~
 ---
 ## Como executar?
+ Para executar primeiro você tera que modificar o arquivo colocando no lugar
+ de ./wordlist o diretorio da sua wordlist, para modificar você pode usar o commando:
+ ~~~
+ nano dnsscript.sh
+ ~~~
+ ---
+ #### Depois disso:
  Para executar e so utilizar o comando:
  ~~~
  ./dns-script nomedosite.com.br
