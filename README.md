@@ -1,4 +1,4 @@
-# Brute_Force_direct_DNS_search_script
+# Brute_Force_DNS_search_script
 
 ---
 ## Você precisarar ter:
