@@ -6,14 +6,12 @@
   * Wordlist
   * git
 ---
-## Como instalar:
-  Caso você não tenha o Git:
 ### Como instalar o Git?
 ~~~
 sudo apt-get install git
 ~~~
 ---
-## Como instalar o script?
+## Como instalar?
 ~~~
 git clone https://github.com/Diperblue/brute-force-dns-search-script.git
 
